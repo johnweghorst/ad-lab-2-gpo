@@ -48,7 +48,7 @@ In this simple lab, I will take the Windows Server 2019 and client environments 
 <img width="975" height="904" alt="image" src="https://github.com/user-attachments/assets/3dc2251e-adad-4291-9dc9-9986fb3e3d09" />
 
 * Exit the editor.
-* Now on the client PC, this policy won’t take effect until we log out and back in. There’s also the gpudate /force command to update all group policies, but that command isn’t necessary here. Log out of the client machine and log back in. Our group policy was successfully applied! You can log out of the user you're logged in to and log into a different one and the same configurations will be applied as we linked this GPO to the entire _USERS OU.
+* Now on the client PC, this policy won’t take effect until we log out and back in. There’s also the gpudate /force command to manually refresh policies, but that command isn’t necessary here. Log out of the client machine and log back in. Our group policy was successfully applied! You can log out of the user you're logged in to and log into a different one and the same configurations will be applied as we linked this GPO to the entire _USERS OU.
 
 <img width="975" height="806" alt="image" src="https://github.com/user-attachments/assets/ce85890d-eb0e-40e3-ad18-647bd4997867" />
 <img width="975" height="814" alt="image" src="https://github.com/user-attachments/assets/d52c9e20-80f4-4567-af0a-fc9bb0ca97b6" />
