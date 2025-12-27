@@ -20,7 +20,7 @@ In this simple lab, I will take the Windows Server 2019 and client environments 
 
 * Then, once it’s created, go to _USERS and find the GPO inside. Right click it and choose Edit.
 
-img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/b5152679-4a7e-4d1a-9dbb-3f11a0ccf798" />
+<img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/b5152679-4a7e-4d1a-9dbb-3f11a0ccf798" />
 
 * Our policy we want will be under the User Configuration > Policies > Administrative Templates > Desktop folder.
 
