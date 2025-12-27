@@ -1,5 +1,4 @@
 # ad-lab-2-gpo
-
 In this simple lab, I will take the Windows Server 2019 and client environments I created in the previous lab (https://github.com/johnweghorst/ad-lab) and create some simple GPOs and link them to OUs. First, I will add some desktop icons to our client machine, and then hide them with a GPO in Group Policy Management. I will also set a custom wallpaper for the client. The goal is to demonstrate basic user-based Group Policy management.
 
 # Software and Tools Used
